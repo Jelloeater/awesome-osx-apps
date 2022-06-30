@@ -7,6 +7,11 @@ If you install anyone of these, install this one 😊
 Quick Search Launcher from the gods!  
 [https://www.raycast.com/](https://www.raycast.com/)
 
+MenuBar Task Reminders
+https://monofocus.app/ <- Really Good
+https://widgetworx.com/projects/onetask.html
+https://github.com/timqian/one-goal
+
 Handy for screen sharing!  
 [https://muzzleapp.com/](https://muzzleapp.com/)  
 Keyboard Shortcuts  
