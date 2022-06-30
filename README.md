@@ -9,6 +9,7 @@ Quick Search Launcher from the gods!
 
 MenuBar Task Reminders
 https://monofocus.app/ <- Really Good
+
 https://widgetworx.com/projects/onetask.html
 https://github.com/timqian/one-goal
 
