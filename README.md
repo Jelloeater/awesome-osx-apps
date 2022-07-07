@@ -63,8 +63,14 @@ Hide taskbar Icons
 [https://github.com/dwarvesf/hidden](https://github.com/dwarvesf/hidden)  
 Snap Windows around  
 [https://rectangleapp.com/](https://rectangleapp.com/)  
+
+## Mouse
 Smooth scrolling goodness  
 [https://mos.caldis.me/](https://mos.caldis.me/)  
+Mouse Acceleration
+https://github.com/linearmouse/linearmouse
+
+## Switchers
 Dock bar window switcher (Can be a dock replacement or just help w/ multi monitor)  
 [https://brawersoftware.com/products/ubar](https://brawersoftware.com/products/ubar)  
 Virtual Desktop Indicator  
