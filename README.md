@@ -35,10 +35,11 @@ Menubar Next Appointment (good for Teams meetings)
 [https://meetingbar.onrender.com/](https://meetingbar.onrender.com/)
 Todo in Menubar
 [https://github.com/DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar)
-Menubar CPU Stats
+Widget Sidebar Stats
 [https://github.com/gao-sun/eul](https://github.com/gao-sun/eul)
-Another Menus Stats App
-[https://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/](https://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/)
+Menu Bar System Stats
+https://github.com/exelban/stats
+
 Slack / or any app, notification in menu bar  
 [https://github.com/xiaogdgenuine/Doll](https://github.com/xiaogdgenuine/Doll)  
 
