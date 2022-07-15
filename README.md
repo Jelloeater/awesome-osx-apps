@@ -40,6 +40,9 @@ Widget Sidebar Stats
 Menu Bar System Stats
 https://github.com/exelban/stats
 
+Nice Spotify Controller
+https://github.com/kmikiy/SpotMenu
+
 Slack / or any app, notification in menu bar  
 [https://github.com/xiaogdgenuine/Doll](https://github.com/xiaogdgenuine/Doll)  
 
