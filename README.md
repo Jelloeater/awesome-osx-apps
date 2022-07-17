@@ -1,5 +1,7 @@
 If you install anything on this list, install these FIRST 😊  
+
 ====================================================
+
 Quick Search Launcher from the gods!  
 [https://www.raycast.com/](https://www.raycast.com/)
 
@@ -17,9 +19,11 @@ Clipboard manager / history
 
 Task List, works w/ Slack, Jira and 365 Todo List
 https://monofocus.app/ <- Really Good
+
 ====================================================
 
 # Time managment
+
 Menubar Next Appointment (good for Teams meetings)
 [https://meetingbar.onrender.com/](https://meetingbar.onrender.com/)
 
@@ -53,6 +57,7 @@ Slack / or any app, notification in menu bar
 [https://github.com/xiaogdgenuine/Doll](https://github.com/xiaogdgenuine/Doll)  
 
 # IDE Tools 
+
 SmartGit, nice Git GUI for when things get weird
 [https://www.syntevo.com/smartgit/](https://www.syntevo.com/smartgit/)
 
@@ -60,10 +65,12 @@ Secure Pips (SSH Tunnel Manager)
 https://www.opoet.com/pyro/index.php
 
 # Notepads
+
 FromScratch (Scratch pad / auto save todo list, nice)
 [https://fromscratch.rocks/](https://fromscratch.rocks/)
 
 # Window Management
+
 Awesome Alt-tab  
 [https://alt-tab-macos.netlify.app/](https://alt-tab-macos.netlify.app/)  
 
@@ -83,6 +90,7 @@ Virtual Desktop Indicator
 [https://github.com/Jaysce/Spaceman](https://github.com/Jaysce/Spaceman)  
 
 # Mouse
+
 Smooth scrolling goodness  
 [https://mos.caldis.me/](https://mos.caldis.me/) 
 
@@ -93,10 +101,12 @@ Mouse Acceleration
 https://github.com/linearmouse/linearmouse
 
 # Keybord
+
 Keyboard Shortcuts  
 [https://karabiner-elements.pqrs.org/](https://karabiner-elements.pqrs.org/)   
 
 # System Info
+
 Menu Bar Info  
 [https://xbarapp.com/](https://xbarapp.com/)
 
@@ -107,17 +117,21 @@ Menu Bar System Stats
 https://github.com/exelban/stats
 
 # Monitor Tweaks
+
 Multi Monitor Brightness  
 [https://github.com/MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl)  
 Night Mode Auto Switch
 [https://nightowl.kramser.xyz/](https://nightowl.kramser.xyz/)
 
 # Media
+
 Nice music player  
 [https://www.strawberrymusicplayer.org/](https://www.strawberrymusicplayer.org/)  
 
 # Lists from other folks  
+
 [https://github.com/jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)  
+
 [https://github.com/iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS)
 
 Menubar app list
