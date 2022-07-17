@@ -1,3 +1,4 @@
+---------------------------------------------------------------------------------------------------------
 # ** If you install anything on this list, install these FIRST 😊 **
 
 Quick Search Launcher from the gods!  
