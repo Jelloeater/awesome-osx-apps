@@ -1,6 +1,4 @@
-If you install anything on this list, install these FIRST 😊  
-
-====================================================
+# ** If you install anything on this list, install these FIRST 😊 **
 
 Quick Search Launcher from the gods!  
 [https://www.raycast.com/](https://www.raycast.com/)
@@ -20,7 +18,7 @@ Clipboard manager / history
 Task List, works w/ Slack, Jira and 365 Todo List
 https://monofocus.app/ <- Really Good
 
-====================================================
+---------------------------------------------------------------------------------------------------------
 
 # Time managment
 
