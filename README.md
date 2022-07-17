@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------------------------------------
-# ** If you install anything on this list, install these FIRST 😊 **
+# If you install anything on this list, install these FIRST 😊 
 
 Quick Search Launcher from the gods!  
 [https://www.raycast.com/](https://www.raycast.com/)
