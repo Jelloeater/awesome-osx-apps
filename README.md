@@ -121,6 +121,8 @@ Multi Monitor Brightness
 [https://github.com/MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl)  
 Night Mode Auto Switch
 [https://nightowl.kramser.xyz/](https://nightowl.kramser.xyz/)
+Save Windows Positions
+https://github.com/relikd/Memmon
 
 # Media
 
