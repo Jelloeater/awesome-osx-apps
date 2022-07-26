@@ -63,6 +63,12 @@ SmartGit, nice Git GUI for when things get weird
 Secure Pips (SSH Tunnel Manager)
 https://www.opoet.com/pyro/index.php
 
+RDP Browser
+https://www.royalapps.com/ts/mac/features
+
+ZeroTier (Reverse Tunnels / VPN)
+https://docs.zerotier.com/
+
 # Notepads
 
 FromScratch (Scratch pad / auto save todo list, nice)
