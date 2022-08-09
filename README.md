@@ -1,8 +1,10 @@
 ---------------------------------------------------------------------------------------------------------
-# If you install anything on this list, install these FIRST 😊 
+# Essentials
 
 Quick Search Launcher from the gods!  
 [https://www.raycast.com/](https://www.raycast.com/)
+
+# If you install anything on this list, install this FIRST 😊 
 
 Snap Windows around  
 [https://rectangleapp.com/](https://rectangleapp.com/) 
@@ -22,11 +24,11 @@ https://monofocus.app/ <- Really Good
 Terraform Local Dev FTW
 https://github.com/localstack/localstack
 
-Non creepy LOCAL time tracking
-https://tockler.io/
 ---------------------------------------------------------------------------------------------------------
 
 # Time managment
+Non creepy LOCAL time tracking
+https://tockler.io/
 
 Menubar Next Appointment (good for Teams meetings)
 [https://meetingbar.onrender.com/](https://meetingbar.onrender.com/)
@@ -35,6 +37,7 @@ Todo in Menubar
 [https://github.com/DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar)
 
 # Productivity Tools
+
 https://widgetworx.com/projects/onetask.html
 
 https://github.com/timqian/one-goal
