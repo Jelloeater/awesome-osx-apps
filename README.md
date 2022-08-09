@@ -4,7 +4,7 @@
 Quick Search Launcher from the gods!  
 [https://www.raycast.com/](https://www.raycast.com/)
 
-# If you install anything on this list, install this FIRST 😊 
+** If you install anything on this list, install this FIRST 😊 **
 
 Snap Windows around  
 [https://rectangleapp.com/](https://rectangleapp.com/) 
