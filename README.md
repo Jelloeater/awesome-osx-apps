@@ -10,7 +10,7 @@ Snap Windows around
 Boop (Good for quick text dumps, code note pad)
 [https://github.com/IvanMathy/Boop](https://github.com/IvanMathy/Boop)
 
-Awesome drop down (Quake) terminal (Also grat terminal in general, works well w/ ZSH)
+Awesome drop down (Quake) terminal (Also great terminal in general, works well w/ ZSH)
 [https://iterm2.com/downloads.html](https://iterm2.com/downloads.html)  
 
 Clipboard manager / history  
@@ -19,6 +19,11 @@ Clipboard manager / history
 Task List, works w/ Slack, Jira and 365 Todo List
 https://monofocus.app/ <- Really Good
 
+Terraform Local Dev FTW
+https://github.com/localstack/localstack
+
+Non creepy LOCAL time tracking
+https://tockler.io/
 ---------------------------------------------------------------------------------------------------------
 
 # Time managment
@@ -134,6 +139,9 @@ https://github.com/relikd/Memmon
 
 Nice music player  
 [https://www.strawberrymusicplayer.org/](https://www.strawberrymusicplayer.org/)  
+
+Spotify Controls
+https://kmikiy.github.io/SpotMenu/
 
 # Lists from other folks  
 
