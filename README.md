@@ -10,6 +10,9 @@ CLI Coolness
 https://github.com/sharkdp/bat
 https://dev.to/abdfnx/oh-my-zsh-powerlevel10k-cool-terminal-1no0
 
+Going to need these fonts for icons
+https://github.com/ryanoasis/nerd-fonts
+
 Snap Windows around  
 [https://rectangleapp.com/](https://rectangleapp.com/) 
 
