@@ -6,6 +6,10 @@ Quick Search Launcher from the gods!
 
 ** If you install anything on this list, install this FIRST 😊 **
 
+CLI Coolness
+https://github.com/sharkdp/bat
+https://dev.to/abdfnx/oh-my-zsh-powerlevel10k-cool-terminal-1no0
+
 Snap Windows around  
 [https://rectangleapp.com/](https://rectangleapp.com/) 
 
