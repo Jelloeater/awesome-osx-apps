@@ -17,6 +17,9 @@ https://97amarnathk.github.io/2020/08/01/my-macos-terminal-setup.html
 Going to need these fonts for icons
 https://github.com/ryanoasis/nerd-fonts
 
+Nice CLI Diff
+https://github.com/dandavison/delta
+
 Snap Windows around  
 [https://rectangleapp.com/](https://rectangleapp.com/) 
 
