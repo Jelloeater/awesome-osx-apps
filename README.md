@@ -7,7 +7,7 @@ Quick Search Launcher from the gods!
 ** If you install anything on this list, install this FIRST 😊 **
 
 CLI Coolness
-
+Like Cat, but better
 https://github.com/sharkdp/bat
 
 https://dev.to/abdfnx/oh-my-zsh-powerlevel10k-cool-terminal-1no0
@@ -38,6 +38,9 @@ https://monofocus.app/ <- Really Good
 Terraform Local Dev FTW
 https://github.com/localstack/localstack
 
+TLDR (Like Man, but simplier)
+https://github.com/tldr-pages/tldr
+
 ---------------------------------------------------------------------------------------------------------
 
 # Time managment
@@ -51,6 +54,9 @@ Todo in Menubar
 [https://github.com/DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar)
 
 # Productivity Tools
+
+Send files via CLI anywhere
+https://github.com/magic-wormhole/magic-wormhole
 
 https://widgetworx.com/projects/onetask.html
 
