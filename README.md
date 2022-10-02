@@ -79,6 +79,9 @@ Slack / or any app, notification in menu bar
 
 # IDE Tools 
 
+Inspect HTTP Traffic / MitM yourself
+https://proxyman.io/
+
 SmartGit, nice Git GUI for when things get weird
 [https://www.syntevo.com/smartgit/](https://www.syntevo.com/smartgit/)
 
