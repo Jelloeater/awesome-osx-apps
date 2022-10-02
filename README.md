@@ -4,14 +4,11 @@
 Quick Search Launcher from the gods!  
 [https://www.raycast.com/](https://www.raycast.com/)
 
+https://dev.to/abdfnx/oh-my-zsh-powerlevel10k-cool-terminal-1no0
+
 ** If you install anything on this list, install this FIRST 😊 **
 
 CLI Coolness
-Like Cat, but better
-https://github.com/sharkdp/bat
-
-https://dev.to/abdfnx/oh-my-zsh-powerlevel10k-cool-terminal-1no0
-
 https://97amarnathk.github.io/2020/08/01/my-macos-terminal-setup.html
 
 Going to need these fonts for icons
@@ -21,6 +18,10 @@ https://github.com/ryanoasis/nerd-fonts
 Nice CLI Diff
 
 https://github.com/dandavison/delta
+
+Like Cat, but better
+
+https://github.com/sharkdp/bat
 
 Snap Windows around
 
