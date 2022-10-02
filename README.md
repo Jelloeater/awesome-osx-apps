@@ -15,12 +15,15 @@ https://dev.to/abdfnx/oh-my-zsh-powerlevel10k-cool-terminal-1no0
 https://97amarnathk.github.io/2020/08/01/my-macos-terminal-setup.html
 
 Going to need these fonts for icons
+
 https://github.com/ryanoasis/nerd-fonts
 
 Nice CLI Diff
+
 https://github.com/dandavison/delta
 
-Snap Windows around  
+Snap Windows around
+
 [https://rectangleapp.com/](https://rectangleapp.com/) 
 
 Boop (Good for quick text dumps, code note pad)
