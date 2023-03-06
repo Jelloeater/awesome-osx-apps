@@ -45,6 +45,8 @@ https://github.com/localstack/localstack
 TLDR (Like Man, but simplier)
 https://github.com/tldr-pages/tldr
 
+MarkText (Really nice Markdown editor for writing documentation)
+https://github.com/marktext/marktext
 ---------------------------------------------------------------------------------------------------------
 
 # Time managment
