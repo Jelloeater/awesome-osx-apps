@@ -23,6 +23,10 @@ Like Cat, but better
 
 https://github.com/sharkdp/bat
 
+Amazing CLI history search
+
+https://atuin.sh/
+
 Snap Windows around
 
 [https://rectangleapp.com/](https://rectangleapp.com/) 
